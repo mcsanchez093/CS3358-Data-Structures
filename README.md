@@ -1,3 +1,3 @@
 # CS 3358 - Data-Structures
-Assignments for Data Structure. 
-Note: not all met the requirements 100%
+Assignments: not all met the requirements 100%
+Labs: missing starting files, will add them soon!
